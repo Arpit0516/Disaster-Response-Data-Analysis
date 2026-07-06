@@ -79,15 +79,8 @@ The dataset contains information such as:
 
 ![Response Time](images/responsetime.png)
 
----
+## 3. Recovery Days Analysis
 
-## 3. Casualties Analysis
-
-![Casualties](images/Casualties.png)
-
----
-
-## 4. Recovery Days Analysis
 
 ![Recovery Days](images/Recovery_days.png)
 ---
