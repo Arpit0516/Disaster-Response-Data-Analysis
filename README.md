@@ -69,50 +69,27 @@ The dataset contains information such as:
 
 ## 📸 Output
 
-### Top Countries Requiring Aid
+## 1. Highest Aid Requirements
 
-![Aid](images/image1.jpeg)
-
-### Project Output
-
-![Output](images/image2.jpeg)
+![Highest Aid Requirements](images/Highest_aid_requirements.png)
 
 ---
 
-## 📁 Project Structure
+## 2. Response Time Analysis
 
-```
-Disaster-Response-Data-Analysis
-│
-├── images
-│   ├── image1.jpeg
-│   ├── image2.jpeg
-│
-├── dsproject.py
-├── requirements.txt
-└── README.md
-```
+![Response Time](images/responsetime.png)
 
 ---
 
-## ▶️ Installation
+## 3. Casualties Analysis
 
-```bash
-git clone https://github.com/Arpit0516/Disaster-Response-Data-Analysis.git
-```
-
-```bash
-pip install -r requirements.txt
-```
+![Casualties](images/Casualties.png)
 
 ---
 
-## ▶️ Run
+## 4. Recovery Days Analysis
 
-```bash
-python dsproject.py
-```
-
+![Recovery Days](images/Recovery_days.png)
 ---
 
 ## 📈 Future Improvements
